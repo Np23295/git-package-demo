@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "repository": {
-    "url": "https://github.com/np23295/git-package-demo.git"
+    "url": "git://github.com/np23295/git-package-demo.git"
   },
   "author": "",
   "license": "ISC"
